@@ -1,0 +1,39 @@
+<html>
+    <head>
+        <title>Meu primeiro site</title>
+    </head>
+
+    <body>
+
+        <img width="100" src="Carlos Oliveira .jpg">
+        <h1>Meu Curriculum</h1>
+        <p>Meu <b>curriculum</b> em HTML</p>
+        <p>
+            LEI<br>
+            COM<br>
+            ATENÇÃO
+        </p>
+        <h2>Links</h2>
+        <lu>
+            <li><a target="_blank" href="https://www.linkedin.com/in/carlos-oliveira-8648425b/">LinkedIn</a></li>
+            <li><a target="_blank" href="https://github.com/oliveira2727" >Gitthub</a></li>
+        </lu>
+
+        <h2>Informações Pessoais</h2>
+        <ul>
+            <li> <b>Nome:</b>Carlos Oliveira</li>
+            <li> <b>Telefone:</b>82-98466-1079</li>
+            <li> <b>e-mail:</b> calrosdeoliveirapen51@gmail.com</li>
+        </ul>
+
+        <h3>Contatos</h3>
+        <h3>Endereço</h3>
+        <h3>Experiencia Profissional</h3>
+        <ul>
+            <li>Estagiario na área de TI</li>
+            <li>Desenvolvedor Júnior</li>
+        </ul>
+
+
+    </body>
+</html>
